@@ -14,4 +14,4 @@ I’m a Senior Cloud Administrator passionate about automation and Infrastructur
 **Learning Journey:** Documentation of my progress in scripting and development.\
 **Knowledge Sharing:** Resources, tips, and insights on cloud technologies and automation.
 
-☁️ **Thank you for visiting!** I’m committed to staying at the forefront of cloud technology and continuously improving my skills. I hope you find valuable insights and resources here.
+☁️ Thank you for visiting! I’m committed to staying at the forefront of cloud technology and continuously improving my skills. I hope you find valuable insights and resources here.
