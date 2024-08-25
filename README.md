@@ -1,6 +1,6 @@
 👋 **Welcome to my GitHub Profile!**
 
-I am a Senior Cloud Administrator with a passion for automation, infrastructure as code, and continuous learning. My expertise lies in managing and optimizing cloud environments, and I am currently focused on enhancing my scripting and development skills in PowerShell, Terraform, and Python.
+I am a Senior Cloud Administrator with a passion for automation, infrastructure as code, and continuous learning. My expertise lies in managing and optimising cloud environments, and I am currently focused on enhancing my scripting and development skills in PowerShell, Terraform, and Python.
 
 💼 **Career Goals**
 
