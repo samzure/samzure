@@ -1,23 +1,17 @@
 👋 **Welcome to my GitHub Profile!**
 
-I am a Senior Cloud Administrator with a passion for automation, infrastructure as code, and continuous learning. My expertise lies in managing and optimising cloud environments, and I am currently focused on enhancing my scripting and development skills in PowerShell, Terraform, and Python.
+I’m a Senior Cloud Administrator passionate about automation and Infrastructure as Code (IaC). Currently, I’m focused on enhancing my skills in PowerShell, Terraform, and Python to better manage and optimise cloud environments.
 
-💼 **Career Goals**
+💼 **Career Goals:**
 
-**PowerShell:** Master advanced scripting techniques to automate complex cloud tasks and streamline administrative processes.
+**PowerShell:** Automate complex cloud tasks and streamline administrative processes.
+**Terraform:** Design and deploy scalable, reliable cloud infrastructure with best practices in IaC.
+**Python:** Develop tools and utilities for automation and data processing in cloud administration.
 
-**Terraform:** Leverage Terraform to design and deploy scalable, reliable cloud infrastructure, following best practices in Infrastructure as Code (IaC).
+🚀**What You’ll Find Here:**
 
-**Python:** Expand my skill set by developing tools and utilities that complement my cloud administration work, with a focus on automation and data processing.
+**Practical Projects**: Real-world scripts and IaC configurations by me
+**Learning Journey:** Documentation of my progress in scripting and development.
+**Knowledge Sharing:** Resources, tips, and insights on cloud technologies and automation.
 
-🚀 **What You’ll Find Here**
-
-**Practical Projects:** Repositories showcasing real-world scripts and IaC configurations that solve everyday challenges in cloud administration.
-
-**Learning Journey:** Continuous exploration and documentation of my progress as I deepen my understanding of scripting and development.
-
-**Knowledge Sharing:** Resources, tips, and insights related to cloud technologies, automation, and scripting, reflecting my commitment to professional growth.
-
-☁️ Thank you for visiting! ☁️
-
-I am dedicated to staying at the forefront of cloud technology and continually improving my skills and I hope you find valuable insights and resources here.
+☁️ **Thank you for visiting!** I’m committed to staying at the forefront of cloud technology and continuously improving my skills. I hope you find valuable insights and resources here.
