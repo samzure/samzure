@@ -13,7 +13,9 @@ I am a Senior Cloud Administrator with a passion for automation, infrastructure 
 🚀 **What You’ll Find Here**
 
 **Practical Projects:** Repositories showcasing real-world scripts and IaC configurations that solve everyday challenges in cloud administration.
+
 **Learning Journey:** Continuous exploration and documentation of my progress as I deepen my understanding of scripting and development.
+
 **Knowledge Sharing:** Resources, tips, and insights related to cloud technologies, automation, and scripting, reflecting my commitment to professional growth.
 
 I am dedicated to staying at the forefront of cloud technology and continually improving my skills. Thank you for visiting! ☁️
