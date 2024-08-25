@@ -20,4 +20,4 @@ I am a Senior Cloud Administrator with a passion for automation, infrastructure 
 
 ☁️ Thank you for visiting! ☁️
 
-I am dedicated to staying at the forefront of cloud technology and continually improving my skills.
+I am dedicated to staying at the forefront of cloud technology and continually improving my skills and I hope you find valuable insights and resources here.
